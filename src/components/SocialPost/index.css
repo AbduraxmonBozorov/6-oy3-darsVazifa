@@ -1,0 +1,12 @@
+
+
+.fa-solid{
+    color: #ffc107;
+    font-size: 2em;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.likeCount{
+    margin-right: 30px;
+}
